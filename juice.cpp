@@ -1,5 +1,5 @@
 ﻿#include<iostream>
-#include<Manage.h>
+#include "Manage.h"
 
 using namespace std;
 
@@ -7,5 +7,6 @@ using namespace std;
 
 int main()
 {
-
+	int inf;
+	
 }
